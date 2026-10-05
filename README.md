@@ -1,10 +1,11 @@
 # Hi, I'm Kemi 
 
-I'm an analytics and strategy professional with experience across venture capital 
+I'm an analytics and strategy professional with experience across healthcare and pharma analytics, venture capital 
 research, emerging markets investment, and business consulting. I use data to 
 surface insights that drive strategic decisions.
 
 ## What I Work On
+-  **Healthcare & Pharma Analytics** — Drug spending, pricing and Medicare policy
 -  **Investment & Market Analysis** — VC funding patterns, startup ecosystems, unicorn trends
 -  **Emerging Markets** — AgriTech investment, Africa & Southeast Asia business development  
 -  **Business Strategy** — Consulting engagements, market entry, operational analytics
@@ -13,6 +14,7 @@ surface insights that drive strategic decisions.
 ## Featured Projects
 | Project | Description | Tools |
 |--------|-------------|-------|
+| [Medicare Part D Drug Spending Analysis](https://github.com/Ekemini-Ekpo/medicare-part-D-drug-spending-analysis) | What's driving Medicare's $289B drug bill: price vs. volume, GLP-1s, manufacturers and price negotiation exposure | Python, Pandas, Matplotlib |
 | [Venture Capital Decade Analysis](https://github.com/Ekemini-Ekpo/venture-capital-decade-analysis) | How startup funding has structurally shifted 2004–2026 | Python, Pandas, Seaborn |
 | [Unicorn Companies Analysis](https://github.com/Ekemini-Ekpo/Unicorn-companies-analysis) | Decoding billion-dollar startup creation & US vs China innovation divide | Python, Pandas, Seaborn |
 | [Analytics Advantage](https://github.com/Ekemini-Ekpo/AnalyticsAdvantage) | ML models for employee attrition & marketing performance | Python, R, Scikit-learn |
@@ -26,5 +28,5 @@ surface insights that drive strategic decisions.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ## Currently
-Open to full-time opportunities in **consulting** and **tech strategy**   Based in Washington, DC  
+Open to full-time opportunities in **consulting** and **tech strategy**.   
 Connect with me on LinkedIn www.linkedin.com/in/ekeminiekpo
